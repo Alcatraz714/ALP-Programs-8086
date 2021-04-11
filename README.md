@@ -4,8 +4,8 @@
 ## How to USE !
 ### just Download and run DosBox while directory set to thid MASM 611 folder' bin
 ### commands for changing to directory ->
-  > mount <drive> <drive:>\masm611
-  > <drive:>
+  > mount (drive) (drive:)\masm611
+  > (drive:)
   > cd bin 
 ### Example ->
   > mount c c:\masm611
