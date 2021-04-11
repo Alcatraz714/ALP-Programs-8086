@@ -6,11 +6,11 @@
 ### commands for changing to directory 
 ->
   > mount (drive) (drive:)\masm611
-  > (drive:)
-  > cd bin 
+  (drive:)
+  cd bin 
 ### Example 
 ->
   > mount c c:\masm611
-  > c:
-  > cd bin
+  c:
+  cd bin
  ### I have used C drive for MASM here 
